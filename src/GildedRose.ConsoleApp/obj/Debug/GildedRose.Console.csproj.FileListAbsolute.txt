@@ -1,0 +1,7 @@
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/bin/Debug/GildedRose.Console.exe.config
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/bin/Debug/GildedRose.Console.exe
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/bin/Debug/GildedRose.Console.pdb
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/obj/Debug/GildedRose.Console.csprojAssemblyReference.cache
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/obj/Debug/GildedRose.Console.csproj.CoreCompileInputs.cache
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/obj/Debug/GildedRose.Console.exe
+/Users/mateusz/Desktop/GildedRose/src/GildedRose.Console/obj/Debug/GildedRose.Console.pdb
